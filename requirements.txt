@@ -1,0 +1,6 @@
+streamlit>=1.39,<2
+PyMuPDF>=1.24,<2
+Pillow>=10,<13
+pytesseract>=0.3.13,<1
+python-docx>=1.1,<2
+python-dotenv>=1.0,<2
